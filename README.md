@@ -4,11 +4,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/byuJR?style=social)](https://github.com/byuJR?tab=stars)
 
 ## 🌱 About Me
-- 🌍 I'm based in [Indonesia]
-- 🎓 I’m currently studying [Teknologi Informasi] at [Universitas Tidar]
-- 💼 I’m [amateur programmer]
-- 🌱 I’m interested in learning [Blockchain]
-- 📫 How to reach me: [mahardika.bayu.rahmadi@students.untidar.ac.id]
+- 🌍 I'm based in Indonesia
+- 🎓 I’m currently studying Teknologi Informasi at Universitas Tidar
+- 💼 I’m amateur programmer
+- 🌱 I’m interested in learning Blockchain
+- 📫 How to reach me: mahardika.bayu.rahmadi@students.untidar.ac.id
 
 ## 🛠️ Technologies & Tools
 - **Languages:** 
