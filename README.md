@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Byu.JR]
+# 👋 Hi, I'm Byu.JR
 
 [![GitHub followers](https://img.shields.io/github/followers/byuJR?style=social)](https://github.com/byuJR)
 [![GitHub stars](https://img.shields.io/github/stars/byuJR?style=social)](https://github.com/byuJR?tab=stars)
