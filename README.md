@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Byu.JR]
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/byuJR)
+[![GitHub followers](https://img.shields.io/github/followers/byuJR?style=social)](https://github.com/byuJR)
 [![GitHub stars](https://img.shields.io/github/stars/byuJR?style=social)](https://github.com/byuJR?tab=stars)
 
 ## 🌱 About Me
@@ -21,7 +21,3 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=byuJR&show_icons=true&theme=radical)
-
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
