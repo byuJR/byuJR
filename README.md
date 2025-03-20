@@ -5,8 +5,7 @@
 
 ## About Me
 - 🎓 I’m currently studying Teknologi Informasi at Universitas Tidar
-- 🌱 I’m interested in learning Blockchain
-- 📫 How to reach me: mahardika.bayu.rahmadi@students.untidar.ac.id
+- 🌱 To be Blokwchain engiwnerw
 
 ## 🛠️ Technologies & Tools
 - **Languages:** 
