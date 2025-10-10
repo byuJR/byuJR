@@ -4,7 +4,7 @@
 
 ## Technologies & Tools
 - **Languages:** 
-  - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  - I'm enjoy with ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 - **Tools:** 
