@@ -3,9 +3,10 @@
 ## To be Blokwchain engiwnerw
 
 ## Technologies & Tools
-- **Languages:** 
+- **Languages:**
   - I'm enjoy with ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  - ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-- **Tools:** 
+- **Tools:**
   - ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+  - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
